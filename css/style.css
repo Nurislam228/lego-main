@@ -1,0 +1,91 @@
+
+
+.menu li{
+display: inline-block;
+
+}
+.menu{
+	background: #BCD647;
+	width: 599px;
+	margin: 20px auto;
+
+}
+.menu a{
+	text-decoration: none;
+	color: #8B0A9A;
+	line-height: 35px;
+	padding: 0px 12px;
+	font-size: 18px;
+	display: block;
+}
+.menu a:hover{
+	background: #009EFF  ;
+	color:#79924A ;
+}
+
+.ball{
+
+	background: white;
+	width: 700px;
+	margin:0 auto;
+	padding: 20px;
+}
+
+h1{
+	color: #2FD51F;
+	text-align: center ;
+}
+h2{
+	color:#862BAE ;
+	text-align: center ;
+	
+}
+h3{
+	color:#46FF00  ;
+	text-align: center ;
+}
+
+body{
+	background:url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fd/64/vladivostok.jpg?w=1600&h=900&s=1/") ;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#box{
+border: 4px solid #1B71E0 ;	
+padding: 30px;
+background : url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyTwmAmUv4NcSr8Sd7nQdeyFc8KZVjK7nnMAoKKNpV67M8oMisCwxx37GnOAU5AAapTA&usqp=CAU");
+background-repeat:no-repeat;
+background-size: cover;
+}
+.text{
+color:#B39C36  ;
+text-align: justify;
+font-size:24px;
+text-transform: uppercase;
+}
+img{
+	float: left;
+}
+
+.link{
+	color:#25E35E   ;
+text-align: justify;
+font-size:24px;
+}
+
+.fox{
+	color:#A29CF9   ;
+text-align: justify;
+font-size:24px;
+text-transform: uppercase;
+font-family:Georgia
+}
+
+p{
+	color:#F9A29C    ;
+text-align: justify;
+font-size:24px;
+font-family: "Courier New";
+}
